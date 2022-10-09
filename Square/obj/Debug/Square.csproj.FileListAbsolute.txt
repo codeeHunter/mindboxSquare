@@ -1,0 +1,6 @@
+C:\Users\Илья\RiderProjects\Mindbox\Square\bin\Debug\Square.dll
+C:\Users\Илья\RiderProjects\Mindbox\Square\bin\Debug\Square.pdb
+C:\Users\Илья\RiderProjects\Mindbox\Square\obj\Debug\Square.csprojAssemblyReference.cache
+C:\Users\Илья\RiderProjects\Mindbox\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+C:\Users\Илья\RiderProjects\Mindbox\Square\obj\Debug\Square.dll
+C:\Users\Илья\RiderProjects\Mindbox\Square\obj\Debug\Square.pdb

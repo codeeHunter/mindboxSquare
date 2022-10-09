@@ -1,0 +1,11 @@
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\bin\Debug\Square.Tests.dll
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\bin\Debug\Square.Tests.pdb
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\bin\Debug\Square.dll
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\bin\Debug\Square.pdb
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\obj\Debug\Square.Tests.csprojAssemblyReference.cache
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\obj\Debug\Square.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\obj\Debug\Square.Tests.csproj.CopyComplete
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\obj\Debug\Square.Tests.dll
+C:\Users\Илья\RiderProjects\Mindbox\Square.Tests\obj\Debug\Square.Tests.pdb
